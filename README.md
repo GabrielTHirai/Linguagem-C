@@ -1,2 +1,2 @@
 # Linguagem-C
-Linguagem C e C++ 
+Codigos basicos das linguagens C e C++
